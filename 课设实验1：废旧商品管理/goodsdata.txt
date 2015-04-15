@@ -1,0 +1,8 @@
+
+1 iMac apple 2 12000 139 2012-1-1 buzhidao
+2 iPhone apple 1 6000 79 2013-9-1 hhhhhh
+3 surface mircosoft 2 13000 60 2014-6-1 hu
+4 tv panda 5 8000 79 1983-5-32 zhu
+6 Hanzhao SB 50 250 1 2011-12-31 beijing
+7 watch Guess 1 1000 3 2011-9-31 japan
+8 software microsoft 1 8000 20 2011-1-1 meiguo
